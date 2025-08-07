@@ -1,5 +1,4 @@
 /*
-Ankit Anudeep
 BFS (Breadth-First Search) approach to find the number of islands in a 2D grid.
 */
 
