@@ -1,5 +1,4 @@
 /*
-Ankit Anudeep
 Leetcode 547. Number of Provinces
 */
 
