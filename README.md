@@ -3,7 +3,7 @@
 Welcome to my curated collection of LeetCode solutions!  
 This repository captures my personal journey of solving problems across essential **Data Structures and Algorithms** topics like:
 
-- Arrays & Strings  
+- Arrays & Strings
 - Linked Lists  
 - Trees & Binary Search Trees  
 - Graphs & Traversals  
