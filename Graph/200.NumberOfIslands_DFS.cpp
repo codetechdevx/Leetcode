@@ -1,3 +1,8 @@
+/*
+Ankit Anudeep
+DFS (Depth-First Search) approach to find the number of islands in a 2D grid.
+*/
+
 #include <iostream>
 #include <vector>
 using namespace std;
